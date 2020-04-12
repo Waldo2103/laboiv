@@ -1,3 +1,4 @@
+
 button {
     border: none;
     background: #893a99;
@@ -59,7 +60,7 @@ body{
     height:657px;
     display: flex;
   flex-direction: column;
-    //background-image: url(../../../assets/fondox.png);
+    background-image: url(../../../assets/fondox.png);
 }
 
 .error{

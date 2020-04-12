@@ -1,0 +1,19 @@
+.titulo{
+    font-size: 35px;
+    font-family: fantasy;
+    color: #a700c9;
+}
+
+body{
+    height:657px;
+    display: flex;
+  flex-direction: column;
+    background-image: url(../../../assets/fondox.png);
+}
+
+.marcador{
+    font-size: 100px;
+    font-family: fantasy;
+    color: #a700c9;
+    -webkit-text-stroke: 2px rgb(255, 230, 1);
+}

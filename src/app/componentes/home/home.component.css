@@ -1,0 +1,12 @@
+.titulo{
+    font-size: 35px;
+    font-family: fantasy;
+    color: #a700c9;
+}
+
+body{
+    height:657px;
+    display: flex;
+  flex-direction: column;
+    background-image: url(../../../assets/fondox.png);
+}
